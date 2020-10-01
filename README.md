@@ -1,1 +1,1 @@
-# Kinnu-s-Repo
+This is a basic repository to learn github
